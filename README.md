@@ -15,3 +15,6 @@ iniciar arquivo de config do tailwind css
 
 Roda o projeto
 ### npm run dev
+
+Integração do Tailwind com o Styled-components
+### npm i tailwind-styled-components
