@@ -1,6 +1,6 @@
 import { ThemeProvider } from 'styled-components'
 import { GlobalStyle } from '../styles/globalStyle';
-import { theme } from '../tailwind.config';
+import { theme } from '../styles/theme';
 import '../styles/globals.css';
 
 
