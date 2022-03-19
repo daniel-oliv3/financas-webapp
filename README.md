@@ -6,3 +6,9 @@ Instalando o typescript
 
 Instalando o styled-components
 ### npm install @types/styled-components -D
+
+Instalando o tailwind css
+### npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+
+iniciar arquivo de config do tailwind css
+### npx tailwindcss init -p
