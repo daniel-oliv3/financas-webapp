@@ -12,3 +12,6 @@ Instalando o tailwind css
 
 iniciar arquivo de config do tailwind css
 ### npx tailwindcss init -p
+
+Roda o projeto
+### npm run dev
